@@ -1,0 +1,29 @@
+.cm-s-crt-green.CodeMirror {
+  font-family: monospace;
+  background-color: #000;
+  color: #4cbb17;
+}
+
+.cm-s-crt-green .cm-keyword {color: #4cbb17;}
+.cm-s-crt-green .cm-atom {color: #4cbb17;}
+.cm-s-crt-green .cm-number {color: #4cbb17;}
+.cm-s-crt-green .cm-def {color: #4cbb17;}
+.cm-s-crt-green .cm-variable {color: #4cbb17;}
+.cm-s-crt-green .cm-variable-2 {color: #4cbb17;}
+.cm-s-crt-green .cm-property {color: #4cbb17;}
+.cm-s-crt-green .cm-operator {color: #4cbb17;}
+.cm-s-crt-green .cm-comment {color: #4cbb17;}
+.cm-s-crt-green .cm-string {color: #4cbb17;}
+.cm-s-crt-green .cm-string-2 {color: #4cbb17;}
+.cm-s-crt-green .cm-meta {color: #4cbb17;}
+.cm-s-crt-green .cm-qualifier {color: #4cbb17;}
+.cm-s-crt-green .cm-bracket {color: #4cbb17;}
+.cm-s-crt-green .cm-tag {color: #4cbb17;}
+.cm-s-crt-green .cm-attribute {color: #4cbb17;}
+.cm-s-crt-green .CodeMirror-selectedtext {background-color: #404040;}
+
+/* Gutters */
+.CodeMirror .CodeMirror-gutters {
+    background-color: #000;
+}
+

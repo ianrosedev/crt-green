@@ -1,0 +1,15 @@
+{
+  "name": "crt-green",
+  "title": "CRT style Green on Black theme",
+  "description": "Green on black text, with a monospace font",
+  "homepage": "https://github.com/ianrosedev/crt-green",
+  "version": "0.1.0",
+  "author": "Ian Rose",
+  "license": "MIT",
+  "theme": {
+    "file": "crt-green.css",
+    "dark": true,
+    "addModeClass": true
+  },
+  "keywords": ["monospace", "green", "crt", "old school"]
+}
