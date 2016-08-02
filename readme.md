@@ -1,3 +1,3 @@
 #crt-green
-###A general use, old-school CRT theme for Brackets
+###A CRT green text theme for Brackets
 ![ScreenShot](screenshots/green-code.png)
